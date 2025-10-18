@@ -2,6 +2,8 @@ profiles:
   default:
     duration: 7d
     pass_threshold: 66
+    close_on_passing: true
+    close_on_passing_min_wait: "1 day"
     allowed_voters:
       teams:
         - approver
