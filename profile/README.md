@@ -13,7 +13,7 @@ Weekly device counts:
 Our ultimate goal is to provide a community-curated set of images to take something great and make it awesome.
 
 - [Join our Discourse Forums](https://universal-blue.discourse.group/)
-- [Join our Discord](https://discord.gg/WEu6BdFEtp) and join the conversations about the project
+- [Join our Discord](https://discord.gg/8RZGC3uFzA) and join the conversations about the project
 - [Consider contributing](https://universal-blue.org/contributing.html) if you have ideas to improve the project.
 - Pull requests are gladly accepted! Have a look through [help wanted](https://github.com/ublue-os/main/labels/help%20wanted) issues to see if you can assist.
 
